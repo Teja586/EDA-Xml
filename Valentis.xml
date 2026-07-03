@@ -121,7 +121,7 @@
       </CxSoftwareModule>
     </SoftwareModules>
     <Events>
-      <CxEvent name="ECChange">
+      <CxEvent name="ECChanged">
         <Description>An equipment constant value was changed locally by the operator.</Description>
         <Attributes>
           <Attribute attrName="CxDCPObject" attrValue="*7*|16|CIMConnectDCIMValentis|8|ECChange|1|40|An equipment constant value was changed locally by the operator.|0||c|eCxUndefined|2|0||0||0||0|0||0||1|0||2|16|0||0||0||0||1|0" />
